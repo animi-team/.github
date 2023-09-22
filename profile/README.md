@@ -1,9 +1,9 @@
 ![anime-banner](https://github.com/AniMi-Official/.github/assets/63802225/318172a8-e8c7-4374-9abc-bf4ce7a37add)
 # AniMi Team 🌸
 
-🌐 [Сайт](https://animi.site)
-🎥 [TikTok](https://www.tiktok.com/@animi_official)
-📣 [Telegram](https://t.me/animi_team)
+- 🌐 [Сайт](https://animi.site)
+- 🎥 [TikTok](https://www.tiktok.com/@animi_official)
+- 📣 [Telegram](https://t.me/animi_team)
 
 
 ## О нас
@@ -22,7 +22,7 @@ AniMi Team - это сообщество энтузиастов аниме, пр
 
 ### Контакты
 
-📧 Свяжитесь с нами по [Email](mailto:animi.technical@gmail.com)
-💬 Присоединяйтесь к нашему [Discord](https://discord.gg/t983xN6PBw) сообществу.
+- 📧 Свяжитесь с нами по [Email](mailto:animi.technical@gmail.com)
+- 💬 Присоединяйтесь к нашему [Discord](https://discord.gg/t983xN6PBw) сообществу.
 
 Следите за нами на GitHub и участвуйте в создании лучшего места для просмотра аниме!
