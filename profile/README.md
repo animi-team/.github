@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![anime-banner](https://github.com/AniMi-Official/.github/assets/63802225/318172a8-e8c7-4374-9abc-bf4ce7a37add)
+<h1 align="center">🌸 Вас приветствует AniMi Team!</h1>
+<h2 align="center">Мы занимаемся разработкой проекта AniMi.TV (Web/Mobile)</h2>
