@@ -1,4 +1,4 @@
-![anime-banner](https://github.com/AniMi-Official/.github/assets/63802225/318172a8-e8c7-4374-9abc-bf4ce7a37add)
+![anime-banner](https://github.com/animi-team/.github/assets/63802225/2ea74b12-eb1c-4689-9b1f-237c37a6b3fd)
 # AniMi Team 🌸
 
 - 🌐 [Сайт](https://animi.site)
